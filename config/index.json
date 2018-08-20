@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://localhost/simple-react-redux",
+  "jwtSecret": "a secret phrase!!"
+}
